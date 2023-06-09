@@ -7,6 +7,7 @@ coffine gurunaru
 회원가입
 아카데미
 커핀그루나루 APP
+
 MENU
 New & Best
 Theme Menu
@@ -15,23 +16,28 @@ Tea & Beverage
 Wine
 Dessert
 MD
+
 STORE
 매장찾기
 신규매장
+
 EVENT
 진행중인 이벤트
 종료된 이벤트
 당첨자 발표
+
 MEMBERSHIP
 퍼플멤버스 소개
 퍼플멤버스 혜택
 퍼플멤버스 충전형
 /기프트 카드
 자주 묻는 질문
+
 COMMUNITY
 새소식
 자주 묻는 질문
 고객의 소리
+
 FRANCHISE
 가맹안내
 투자비용
@@ -41,6 +47,7 @@ FRANCHISE
 지원 제도
 해외 사업
 점주광장
+
 COFFINE STORY
 커핀그루나루 소개
 Coffee + Wine
@@ -50,6 +57,7 @@ Coffee + Wine
 사회공헌
 채용정보
 찾아오시는 길
+
 FRANCHISE GO
 
 1
